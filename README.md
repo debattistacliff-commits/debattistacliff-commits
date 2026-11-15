@@ -4,6 +4,10 @@
   🇲🇹 Maltese artist living in the 🇬🇧 UK · I build <b>free, simple tools</b> that make powerful technology easy for everyone.
 </p>
 
+<p align="center">
+  <a href="https://civitai.com/user/debattistacliff519"><img src="https://img.shields.io/badge/My%20art%20on-Civitai-1971c2?style=for-the-badge" alt="My art on Civitai"></a>
+</p>
+
 ---
 
 I'm an artist who loves experimenting with new things. I build apps to help people, and I don't believe useful tools should cost money. My goal is always the same: **take something powerful but complicated, and make it simple and easy to use.**
