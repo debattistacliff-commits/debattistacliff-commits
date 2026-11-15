@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Clifford Debattista">
+  <img src="assets/header.png" width="100%" alt="Clifford Debattista">
 </p>
 
 <h1 align="center">Hi, I'm Clifford 👋</h1>
@@ -54,5 +54,5 @@ A ghost-box and EVP radio console for Windows, Linux and Android. Made for ghost
   <a href="https://buymeacoffee.com/debattistaj"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="">
+<img src="assets/footer.png" width="100%" alt="">
 
