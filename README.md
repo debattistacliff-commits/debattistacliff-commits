@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f766e,50:1e3a8a,100:b45309&text=Clifford%20Debattista&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Free%20%26%20simple%20tools%20for%20creators&descAlignY=58&descSize=18" width="100%" alt="Clifford Debattista">
+</p>
+
 <h1 align="center">Hi, I'm Clifford 👋</h1>
 
 <p align="center">
@@ -6,6 +10,7 @@
 
 <p align="center">
   <a href="https://civitai.com/user/debattistacliff519"><img src="https://img.shields.io/badge/My%20art%20on-Civitai-1971c2?style=for-the-badge" alt="My art on Civitai"></a>
+  <a href="https://buymeacoffee.com/debattistaj"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
 ---
@@ -43,3 +48,11 @@ A ghost-box and EVP radio console for Windows, Linux and Android. Made for ghost
 ---
 
 <p align="center">⭐ If something here helps you, a star on the project means a lot, and it helps other people find it too.</p>
+
+<p align="center">
+  All my apps are free. If you'd like to support my work, you can<br><br>
+  <a href="https://buymeacoffee.com/debattistaj"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f766e,50:1e3a8a,100:b45309" width="100%" alt="">
+
