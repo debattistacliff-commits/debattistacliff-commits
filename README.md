@@ -22,9 +22,13 @@ Many great apps only speak English, so I try to make mine available in **Maltese
 ## 🛠 What I've made
 
 ### 🎨 [Froja Image Studio](https://github.com/debattistacliff-commits/Froja-Image-Studio)
-<a href="https://github.com/debattistacliff-commits/Froja-Image-Studio"><img src="https://raw.githubusercontent.com/debattistacliff-commits/Froja-Image-Studio/HEAD/public/froja-brand-banner.png" width="100%" alt="Froja Image Studio"></a>
+<a href="https://github.com/debattistacliff-commits/Froja-Image-Studio"><img src="https://raw.githubusercontent.com/debattistacliff-commits/Froja-Image-Studio/HEAD/docs/images/froja-social-preview.png" width="100%" alt="Froja Image Studio"></a>
 
-I love ComfyUI, but not everyone knows how to use it. Froja is a friendly, local image studio that sits on top of ComfyUI and Ollama, so anyone can create images with their own models and LoRAs without wiring up nodes.
+I love ComfyUI, but not everyone knows how to use it. Froja is a friendly, local image and video studio that sits on top of ComfyUI and Ollama, so anyone can create with their own models and LoRAs without wiring up nodes.
+
+**New in 0.2:** every studio is a slide, the design glows like real LEDs (pick your colour), Create works step by step, a 3D Relight room lets you place the lights, and a system monitor keeps an eye on your PC.
+
+<a href="https://github.com/debattistacliff-commits/Froja-Image-Studio/releases/latest/download/FROJA_INSTALLER.bat"><img src="https://img.shields.io/badge/Download-Froja%20installer%20for%20Windows-2fc6ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download the Froja installer for Windows"></a>
 
 ### 🪐 [Orbital Launcher](https://github.com/debattistacliff-commits/Orbital-Launcher)
 <a href="https://github.com/debattistacliff-commits/Orbital-Launcher"><img src="https://raw.githubusercontent.com/debattistacliff-commits/Orbital-Launcher/HEAD/docs/images/orbital-launcher-banner.png" width="100%" alt="Orbital Launcher"></a>
