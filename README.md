@@ -21,6 +21,14 @@ Many great apps only speak English, so I try to make mine available in **Maltese
 
 ## 🛠 What I've made
 
+### 💬 [Il-Kelma](https://github.com/debattistacliff-commits/Il-Kelma)
+<a href="https://github.com/debattistacliff-commits/Il-Kelma"><img src="https://raw.githubusercontent.com/debattistacliff-commits/Il-Kelma/HEAD/assets/readme/hero.png" width="100%" alt="Il-Kelma: Kelma Buddy, a friendly speech bubble with a light bulb"></a>
+
+**Tkellem. Isma'. Ikteb.** A free voice helper for people with dyslexia, Maltese first and open to every language. You speak and it writes in any chat box. You point at text and it reads it to you, with ċ, ġ, ħ, ż and għ always right. **Kelma Buddy** shows you what is happening, and the **Kelma Pad** is a calm writing pad made for dyslexia. Maltese deserves its place in the digital world, and with AI, now it can have it.
+
+<a href="https://debattistacliff-commits.github.io/Il-Kelma/"><img src="https://img.shields.io/badge/%F0%9F%94%8A%20Isma'%20bil--Malti-Listen%20to%20the%20page-e3263e?style=for-the-badge" alt="Listen to the Il-Kelma page in Maltese or English"></a>
+<a href="https://github.com/debattistacliff-commits/Il-Kelma/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Il--Kelma%20for%20Windows-8b5cff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Il-Kelma for Windows"></a>
+
 ### 🎨 [Froja Image Studio](https://github.com/debattistacliff-commits/Froja-Image-Studio)
 <a href="https://github.com/debattistacliff-commits/Froja-Image-Studio"><img src="https://raw.githubusercontent.com/debattistacliff-commits/Froja-Image-Studio/HEAD/docs/images/froja-social-preview.png" width="100%" alt="Froja Image Studio"></a>
 
